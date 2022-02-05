@@ -1,4 +1,4 @@
-package com.example.helloworld
+package com.example.flutter_refactor
 
 import io.flutter.embedding.android.FlutterActivity
 

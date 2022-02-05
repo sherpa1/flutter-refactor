@@ -1,6 +1,6 @@
 {
-    "name": "helloworld",
-    "short_name": "helloworld",
+    "name": "flutter_refactor",
+    "short_name": "flutter_refactor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
